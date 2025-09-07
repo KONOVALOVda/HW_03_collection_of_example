@@ -30,5 +30,9 @@ make
 Пример на модуле ex_list:
 
 sudo insmod ex_list.ko       # загрузить модуль
+
+
 dmesg | tail -n 20           # посмотреть вывод
+
+
 sudo rmmod ex_list           # выгрузить модуль
