@@ -22,7 +22,9 @@ ex_bin_search.ko — пример бинарного поиска (bsearch):
 
 # СОБРАТЬ 
 git clone https://github.com/KONOVALOVda/HW_03_collection_of_example.git
+
 cd HW_03_collection_of_example
+
 make
 
 # Как проверить
