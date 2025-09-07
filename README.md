@@ -69,5 +69,7 @@ sudo rmmod ex_rb_tree
 ======================
 
 sudo insmod ex_bin_search.ko
+
 dmesg | tail -n 20
+
 sudo rmmod ex_bin_search
