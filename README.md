@@ -21,6 +21,9 @@ ex_bin_search.ko — пример бинарного поиска (bsearch):
 сортировка массива и поиск элемента.
 
 # СОБРАТЬ 
+
+#sudo apt install linux-headers-$(uname -r) -y
+
 git clone https://github.com/KONOVALOVda/HW_03_collection_of_example.git
 
 cd HW_03_collection_of_example
